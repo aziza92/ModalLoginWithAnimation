@@ -10,7 +10,7 @@ This repository contains a SwiftUI implementation of a cool, customizable, and i
 
 ## Features
 
-- **Interactive Side Menu**: The primary feature of this project is the interactive modal login. The login modal can be opened and closed with smooth animations, providing a great user experience.
+- **Interactive Modal Login**: The primary feature of this project is the interactive modal login. The login modal can be opened and closed with smooth animations, providing a great user experience.
 
 - **Customizable**: The login modal is highly customizable. You can easily change the fields, buttons, colors, animations, and more to fit your app's theme.
 
